@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "банк", "банк\банк.vcxproj", "{4732F436-8B82-452B-B614-780FA0FAC0B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4732F436-8B82-452B-B614-780FA0FAC0B1}.Debug|x64.ActiveCfg = Debug|x64
+		{4732F436-8B82-452B-B614-780FA0FAC0B1}.Debug|x64.Build.0 = Debug|x64
+		{4732F436-8B82-452B-B614-780FA0FAC0B1}.Debug|x86.ActiveCfg = Debug|Win32
+		{4732F436-8B82-452B-B614-780FA0FAC0B1}.Debug|x86.Build.0 = Debug|Win32
+		{4732F436-8B82-452B-B614-780FA0FAC0B1}.Release|x64.ActiveCfg = Release|x64
+		{4732F436-8B82-452B-B614-780FA0FAC0B1}.Release|x64.Build.0 = Release|x64
+		{4732F436-8B82-452B-B614-780FA0FAC0B1}.Release|x86.ActiveCfg = Release|Win32
+		{4732F436-8B82-452B-B614-780FA0FAC0B1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A78916B-3E33-48EA-8477-3327AFFF73E4}
+	EndGlobalSection
+EndGlobal
